@@ -1,0 +1,20 @@
+liste parti du corps:
+ 'bras',      
+  'avant-bras',
+  'epaules',   
+  'pectauraux',
+  'dos',       
+  'jambes',    
+  'fessiers',  
+  'abdominaux'
+
+  liste muscles:
+  'biceps',       'deltoides',
+  'avant-bras',   'triceps',
+  'pectauraux',   'trapeze haut',
+  'trapeze bas',  'abdominaux',
+  'grand dorsal', 'lombaires',
+  'fessiers',     'ischio-jambiers',
+  'quadriceps',   'adducteurs',
+  'mollets',      'fessier',
+  'abducteurs'
